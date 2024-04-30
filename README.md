@@ -56,7 +56,23 @@ yarn dev
 ## Аутентификация
 
 Аутентификация была реализована с использованием технологии **NextAuth.js**. Авторизация может быть сделана двумя путями: **OAuth or Credentials**. Пользователь может зайти через аккаунт Github либо использовать свою почту/пароль. На сайте поддерживается **регистрация, логин и логаут**. 
+
 <img width="350" alt="Screenshot 2024-04-30 at 20 50 09" src="https://github.com/rimma-kubanova/event-booking-app/assets/115300909/9dc424ff-52fa-4e21-81fe-02f9ce45dd70"> <img width="350" alt="Screenshot 2024-04-30 at 20 49 43" src="https://github.com/rimma-kubanova/event-booking-app/assets/115300909/6f5d81f1-d508-4c8b-85a3-709436b74557">
+
+## Мероприятия
+
+Мероприятия отображены на главной странице. Для доступа к мероприятиям авторизация не обьязателен. Пользователь может нажать на один из ивентов чтобы зайти на новую страницу и получить более детальную информацию об ивенте: 
+
+Страница /events/:
+<img width="1438" alt="Screenshot 2024-04-30 at 21 17 02" src="https://github.com/rimma-kubanova/event-booking-app/assets/115300909/7a5feb27-c7d2-4d82-8c68-ee7ebfa0b249">
+
+Страница /events/{eventid}/:
+
+
+https://github.com/rimma-kubanova/event-booking-app/assets/115300909/b05773f3-85e0-4eb6-b3ba-a0963b0fb3ec
+
+
+
 
 
 
