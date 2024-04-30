@@ -14,6 +14,11 @@ Pocketbase
 TypeScript v5.4.5
 Tailwind CSS v3.0
 ```
+## Прототип
+
+Дизайн для сайта разрабатывался на figma:
+<img width="700" alt="Screenshot 2024-04-30 at 21 36 50" src="https://github.com/rimma-kubanova/event-booking-app/assets/115300909/fba72bb8-4ac0-4ee7-a8e5-e9382d24eac4">
+
 ## Запуск 
 
 Для запуска приложения необходимо клонировать данный репотизорий и загрузить данный код:
