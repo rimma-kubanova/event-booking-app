@@ -26,4 +26,19 @@ yarn dev
 
 ## Датабаза
 
+Для данной веб приложения был использован Pocketbase. Pocketbase позволяет хранить данные а также совершать CRUD (CREATE, READ, UPDATE, DELETE) методы над ними с помощью API запросов. Ниже предоставлены таблицы которые были использованы:
+| Events   |  |
+| -------- | ------- |
+| name  | string   |
+| Description | string     |
+| Datetime   | datetime   |
+| Location   | string    |
+| City   |string   |
+| Ticket   | foreign key   |
+| Datetime   | datetime    |
+| Type   | type  |
+| Photo   | url   |
+
+<img width="500" alt="Screenshot 2024-04-30 at 21 07 45" src="https://github.com/rimma-kubanova/event-booking-app/assets/115300909/6d83ff7f-f6a4-4611-9643-34403c2bec30">
+
 
